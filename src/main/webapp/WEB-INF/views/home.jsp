@@ -39,12 +39,9 @@
 		<p>
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
-                 <p>
-                        I am adding this extra line
-                 </p>
-<p>
-This is the second line to be added
-</p>
+		<p>
+			Esta es una linea adicional de prueba 1
+		</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
@@ -233,7 +230,7 @@ This is the second line to be added
 					</form>
 				</li>
 				<li>
-				<a id="writeXmlAccept" class="writeXmlLink" href="<c:url value="/messageconverters/xml" />">Write XML via Accept=application/xml</a>
+					<a id="writeXmlAccept" class="writeXmlLink" href="<c:url value="/messageconverters/xml" />">Write XML via Accept=application/xml</a>
 				</li>
                 <li>
                     <a id="writeXmlExt" class="writeXmlLink" href="<c:url value="/messageconverters/xml.xml" />">Write XML via ".xml"</a>
