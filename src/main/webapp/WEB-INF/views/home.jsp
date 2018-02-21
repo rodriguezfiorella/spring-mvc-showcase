@@ -42,6 +42,9 @@
 		<p>
 			Esta es una linea adicional de prueba 1
 		</p>
+		<p>
+			Este es una segunda prueba 2
+		</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
